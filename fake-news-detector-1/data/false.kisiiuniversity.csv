@@ -1,0 +1,6 @@
+The contents of the file /fake-news-detector/fake-news-detector/data/false.kisiiuniversity.csv should be structured as a CSV file. Since I don't have the actual data to include, I will create a sample structure for the CSV file. You can replace the sample data with your actual dataset later.
+
+"headline","content","label"
+"Sample false news headline 1","This is a sample content for false news article 1.","false"
+"Sample false news headline 2","This is a sample content for false news article 2.","false"
+"Sample false news headline 3","This is a sample content for false news article 3.","false"

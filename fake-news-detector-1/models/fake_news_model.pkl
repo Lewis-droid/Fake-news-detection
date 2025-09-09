@@ -1,0 +1,3 @@
+The file models/fake_news_model.pkl is a binary file that contains the serialized model and cannot be represented as text. Therefore, it will be intentionally left blank in this context.
+
+# This file is intentionally left blank.
